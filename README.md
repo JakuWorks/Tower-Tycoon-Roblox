@@ -26,3 +26,8 @@ My first ever big project
 - RELEASE 1.0:
   - Around **2500 lines** of quality code (not including blank lines)
   - Around 1200 parts
+
+
+## Requirements
+- Roblox Studio
+- Roblox Account
