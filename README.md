@@ -8,7 +8,7 @@ My first ever big project
 
 
 ## Used Languages
-- **LuaU**
+- LuaU
 
 
 ## Learnt Skills
